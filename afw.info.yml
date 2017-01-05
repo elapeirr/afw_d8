@@ -1,0 +1,6 @@
+name: Available for work
+description: Provides a configurable and themable block to let people know if you are available for work
+package: Custom
+type: module
+version: 1.0
+core: 8.x

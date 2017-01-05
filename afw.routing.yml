@@ -1,0 +1,8 @@
+afw.content: 
+  path: '/afw'
+  defaults: 
+    _controller: '\Drupal\afw\Controller\AfwController::content' 
+    _title: 'Afw'
+  requirements: 
+    _permission: 'access content'
+
